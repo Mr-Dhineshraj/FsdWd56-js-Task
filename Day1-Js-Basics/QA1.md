@@ -1,6 +1,7 @@
 Write a blog on Difference between HTTP1.1 vs HTTP2
 
-HTTP1.1:-
+HTTP1.1
+
        -> It tansfer all the request & response in plain text form.
 
        -> It head of line blocking in which tcp connection is blocked all other request until the response doesn't receive.
@@ -11,6 +12,7 @@ HTTP1.1:-
 
 
 HTTP2.0
+
        -> It works on the binary language.it converts all the textual messages in binary format.
 
        -> It works on fully multiplexed that is one TCP connection is used for multiple request.
