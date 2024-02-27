@@ -1,0 +1,357 @@
+[
+  'Bermuda',
+  'Vatican City',
+  'Cook Islands',
+  'American Samoa',
+  'Saint Martin',
+  'Guam',
+  'Jersey',
+  'Grenada',
+  'Christmas Island',
+  'Niue',
+  'Svalbard and Jan Mayen',
+  'Saint Barthélemy',
+  'Greenland',
+  'Saint Pierre and Miquelon',
+  'Tokelau',
+  'British Virgin Islands',
+  'Cayman Islands',
+  'Saint Lucia',
+  'British Indian Ocean Territory',
+  'Norfolk Island',
+  'Montserrat',
+  'Tuvalu',
+  'Saint Kitts and Nevis',
+  'French Southern and Antarctic Lands',
+  'Isle of Man',
+  'Antigua and Barbuda',
+  'Dominica',
+  'Liechtenstein',
+  'Tonga',
+  'United States Virgin Islands',
+  'Marshall Islands',
+  'Seychelles',
+  'Saint Helena, Ascension and Tristan da Cunha',
+  'Andorra',
+  'Samoa',
+  'Bouvet Island',
+  'Anguilla',
+  'Åland Islands',
+  'Wallis and Futuna',
+  'Monaco',
+  'United States Minor Outlying Islands',
+  'Northern Mariana Islands',
+  'South Georgia',
+  'Micronesia',
+  'Turks and Caicos Islands',
+  'Faroe Islands',
+  'Antarctica',
+  'Kiribati',
+  'Gibraltar',
+  'Palau',
+  'Pitcairn Islands',
+  'Caribbean Netherlands',
+  'Aruba',
+  'Cocos (Keeling) Islands',
+  'Heard Island and McDonald Islands',
+  'San Marino',
+  'Sint Maarten',
+  'Falkland Islands',
+  'Curaçao',
+  'Guernsey',
+  'Nauru',
+  'Saint Vincent and the Grenadines'
+]
+7777721563
+[
+  'Turkmenistan',         'Timor-Leste', 'Azerbaijan',
+  'Vietnam',              'Afghanistan', 'Kuwait',
+  'Kyrgyzstan',           'Armenia',     'Tajikistan',
+  'Brunei',               'Pakistan',    'Bangladesh',
+  'China',                'Maldives',    'Malaysia',
+  'Lebanon',              'Mongolia',    'Nepal',
+  'Taiwan',               'Bhutan',      'Cambodia',
+  'Georgia',              'Israel',      'Singapore',
+  'United Arab Emirates', 'Uzbekistan',  'Saudi Arabia',
+  'Japan',                'Syria',       'Iran',
+  'South Korea',          'Philippines', 'Macau',
+  'North Korea',          'Iraq',        'Palestine',
+  'Turkey',               'Kazakhstan',  'Qatar',
+  'Jordan',               'Myanmar',     'Thailand',
+  'Bahrain',              'Laos',        'India',
+  'Yemen',                'Oman',        'Indonesia',
+  'Sri Lanka',            'Hong Kong'
+]
+Name : Cyprus Capital : Nicosia Flags : 🇨🇾 
+Name : Eritrea Capital : Asmara Flags : 🇪🇷 
+Name : Liberia Capital : Monrovia Flags : 🇱🇷 
+Name : Bermuda Capital : Hamilton Flags : 🇧🇲 
+Name : Vatican City Capital : Vatican City Flags : 🇻🇦 
+Name : Cook Islands Capital : Avarua Flags : 🇨🇰 
+Name : Somalia Capital : Mogadishu Flags : 🇸🇴 
+Name : Zambia Capital : Lusaka Flags : 🇿🇲 
+Name : Venezuela Capital : Caracas Flags : 🇻🇪 
+Name : Turkmenistan Capital : Ashgabat Flags : 🇹🇲 
+Name : Albania Capital : Tirana Flags : 🇦🇱 
+Name : Croatia Capital : Zagreb Flags : 🇭🇷 
+Name : United Kingdom Capital : London Flags : 🇬🇧 
+Name : Sudan Capital : Khartoum Flags : 🇸🇩 
+Name : Timor-Leste Capital : Dili Flags : 🇹🇱 
+Name : Republic of the Congo Capital : Brazzaville Flags : 🇨🇬 
+Name : Azerbaijan Capital : Baku Flags : 🇦🇿 
+Name : Kenya Capital : Nairobi Flags : 🇰🇪 
+Name : American Samoa Capital : Pago Pago Flags : 🇦🇸 
+Name : Ivory Coast Capital : Yamoussoukro Flags : 🇨🇮 
+Name : Senegal Capital : Dakar Flags : 🇸🇳 
+Name : Vietnam Capital : Hanoi Flags : 🇻🇳 
+Name : El Salvador Capital : San Salvador Flags : 🇸🇻 
+Name : Afghanistan Capital : Kabul Flags : 🇦🇫 
+Name : Saint Martin Capital : Marigot Flags : 🇲🇫 
+Name : Latvia Capital : Riga Flags : 🇱🇻 
+Name : Guatemala Capital : Guatemala City Flags : 🇬🇹 
+Name : Kuwait Capital : Kuwait City Flags : 🇰🇼 
+Name : São Tomé and Príncipe Capital : São Tomé Flags : 🇸🇹 
+Name : Kyrgyzstan Capital : Bishkek Flags : 🇰🇬 
+Name : Poland Capital : Warsaw Flags : 🇵🇱 
+Name : Guam Capital : Hagåtña Flags : 🇬🇺 
+Name : Ghana Capital : Accra Flags : 🇬🇭 
+Name : Lithuania Capital : Vilnius Flags : 🇱🇹 
+Name : Armenia Capital : Yerevan Flags : 🇦🇲 
+Name : Jersey Capital : Saint Helier Flags : 🇯🇪 
+Name : Grenada Capital : St. George's Flags : 🇬🇩 
+Name : Tajikistan Capital : Dushanbe Flags : 🇹🇯 
+Name : Ethiopia Capital : Addis Ababa Flags : 🇪🇹 
+Name : Western Sahara Capital : El Aaiún Flags : 🇪🇭 
+Name : Morocco Capital : Rabat Flags : 🇲🇦 
+Name : Puerto Rico Capital : San Juan Flags : 🇵🇷 
+Name : Christmas Island Capital : Flying Fish Cove Flags : 🇨🇽 
+Name : New Zealand Capital : Wellington Flags : 🇳🇿 
+Name : Brunei Capital : Bandar Seri Begawan Flags : 🇧🇳 
+Name : French Guiana Capital : Cayenne Flags : 🇬🇫 
+Name : Niue Capital : Alofi Flags : 🇳🇺 
+Name : Romania Capital : Bucharest Flags : 🇷🇴 
+Name : Svalbard and Jan Mayen Capital : Longyearbyen Flags : 🇸🇯 
+Name : Belarus Capital : Minsk Flags : 🇧🇾 
+Name : Panama Capital : Panama City Flags : 🇵🇦 
+Name : Cameroon Capital : Yaoundé Flags : 🇨🇲 
+Name : Czechia Capital : Prague Flags : 🇨🇿 
+Name : Saint Barthélemy Capital : Gustavia Flags : 🇧🇱 
+Name : Greece Capital : Athens Flags : 🇬🇷 
+Name : Mali Capital : Bamako Flags : 🇲🇱 
+Name : Martinique Capital : Fort-de-France Flags : 🇲🇶 
+Name : France Capital : Paris Flags : 🇫🇷 
+Name : Pakistan Capital : Islamabad Flags : 🇵🇰 
+Name : Peru Capital : Lima Flags : 🇵🇪 
+Name : Barbados Capital : Bridgetown Flags : 🇧🇧 
+Name : Greenland Capital : Nuuk Flags : 🇬🇱 
+Name : Saint Pierre and Miquelon Capital : Saint-Pierre Flags : 🇵🇲 
+Name : Chad Capital : N'Djamena Flags : 🇹🇩 
+Name : Hungary Capital : Budapest Flags : 🇭🇺 
+Name : Comoros Capital : Moroni Flags : 🇰🇲 
+Name : Bangladesh Capital : Dhaka Flags : 🇧🇩 
+Name : Tokelau Capital : Fakaofo Flags : 🇹🇰 
+Name : Fiji Capital : Suva Flags : 🇫🇯 
+Name : China Capital : Beijing Flags : 🇨🇳 
+Name : Colombia Capital : Bogotá Flags : 🇨🇴 
+Name : British Virgin Islands Capital : Road Town Flags : 🇻🇬 
+Name : Algeria Capital : Algiers Flags : 🇩🇿 
+Name : Maldives Capital : Malé Flags : 🇲🇻 
+Name : Malaysia Capital : Kuala Lumpur Flags : 🇲🇾 
+Name : Cayman Islands Capital : George Town Flags : 🇰🇾 
+Name : Spain Capital : Madrid Flags : 🇪🇸 
+Name : Ireland Capital : Dublin Flags : 🇮🇪 
+Name : Estonia Capital : Tallinn Flags : 🇪🇪 
+Name : Paraguay Capital : Asunción Flags : 🇵🇾 
+Name : Uruguay Capital : Montevideo Flags : 🇺🇾 
+Name : South Africa Capital : Pretoria,Bloemfontein,Cape Town Flags : 🇿🇦 
+Name : Saint Lucia Capital : Castries Flags : 🇱🇨 
+Name : Vanuatu Capital : Port Vila Flags : 🇻🇺 
+Name : Finland Capital : Helsinki Flags : 🇫🇮 
+Name : Sweden Capital : Stockholm Flags : 🇸🇪 
+Name : British Indian Ocean Territory Capital : Diego Garcia Flags : 🇮🇴 
+Name : Lebanon Capital : Beirut Flags : 🇱🇧 
+Name : United States Capital : Washington, D.C. Flags : 🇺🇸 
+Name : Chile Capital : Santiago Flags : 🇨🇱 
+Name : Norfolk Island Capital : Kingston Flags : 🇳🇫 
+Name : Montserrat Capital : Plymouth Flags : 🇲🇸 
+Name : Australia Capital : Canberra Flags : 🇦🇺 
+Name : Belize Capital : Belmopan Flags : 🇧🇿 
+Name : Guyana Capital : Georgetown Flags : 🇬🇾 
+Name : Mongolia Capital : Ulan Bator Flags : 🇲🇳 
+Name : Tuvalu Capital : Funafuti Flags : 🇹🇻 
+Name : Dominican Republic Capital : Santo Domingo Flags : 🇩🇴 
+Name : Equatorial Guinea Capital : Malabo Flags : 🇬🇶 
+Name : Saint Kitts and Nevis Capital : Basseterre Flags : 🇰🇳 
+Name : Bolivia Capital : Sucre Flags : 🇧🇴 
+Name : Nepal Capital : Kathmandu Flags : 🇳🇵 
+Name : French Southern and Antarctic Lands Capital : Port-aux-Français Flags : 🇹🇫 
+Name : Taiwan Capital : Taipei Flags : 🇹🇼 
+Name : Benin Capital : Porto-Novo Flags : 🇧🇯 
+Name : Bulgaria Capital : Sofia Flags : 🇧🇬 
+Name : Moldova Capital : Chișinău Flags : 🇲🇩 
+Name : Isle of Man Capital : Douglas Flags : 🇮🇲 
+Name : Bhutan Capital : Thimphu Flags : 🇧🇹 
+Name : Cambodia Capital : Phnom Penh Flags : 🇰🇭 
+Name : Antigua and Barbuda Capital : Saint John's Flags : 🇦🇬 
+Name : Haiti Capital : Port-au-Prince Flags : 🇭🇹 
+Name : Cape Verde Capital : Praia Flags : 🇨🇻 
+Name : Georgia Capital : Tbilisi Flags : 🇬🇪 
+Name : Burundi Capital : Gitega Flags : 🇧🇮 
+Name : Bahamas Capital : Nassau Flags : 🇧🇸 
+Name : Mauritius Capital : Port Louis Flags : 🇲🇺 
+Name : Libya Capital : Tripoli Flags : 🇱🇾 
+Name : Malawi Capital : Lilongwe Flags : 🇲🇼 
+Name : Mexico Capital : Mexico City Flags : 🇲🇽 
+Name : Eswatini Capital : Mbabane Flags : 🇸🇿 
+Name : Papua New Guinea Capital : Port Moresby Flags : 🇵🇬 
+Name : Dominica Capital : Roseau Flags : 🇩🇲 
+Name : Liechtenstein Capital : Vaduz Flags : 🇱🇮 
+Name : Russia Capital : Moscow Flags : 🇷🇺 
+Name : Israel Capital : Jerusalem Flags : 🇮🇱 
+Name : Singapore Capital : Singapore Flags : 🇸🇬 
+Name : Uganda Capital : Kampala Flags : 🇺🇬 
+Name : Slovakia Capital : Bratislava Flags : 🇸🇰 
+Name : Tonga Capital : Nuku'alofa Flags : 🇹🇴 
+Name : United Arab Emirates Capital : Abu Dhabi Flags : 🇦🇪 
+Name : Mayotte Capital : Mamoudzou Flags : 🇾🇹 
+Name : Suriname Capital : Paramaribo Flags : 🇸🇷 
+Name : Uzbekistan Capital : Tashkent Flags : 🇺🇿 
+Name : Saudi Arabia Capital : Riyadh Flags : 🇸🇦 
+Name : Egypt Capital : Cairo Flags : 🇪🇬 
+Name : Italy Capital : Rome Flags : 🇮🇹 
+Name : Madagascar Capital : Antananarivo Flags : 🇲🇬 
+Name : New Caledonia Capital : Nouméa Flags : 🇳🇨 
+Name : Canada Capital : Ottawa Flags : 🇨🇦 
+Name : United States Virgin Islands Capital : Charlotte Amalie Flags : 🇻🇮 
+Name : Marshall Islands Capital : Majuro Flags : 🇲🇭 
+Name : Mauritania Capital : Nouakchott Flags : 🇲🇷 
+Name : Gambia Capital : Banjul Flags : 🇬🇲 
+Name : Trinidad and Tobago Capital : Port of Spain Flags : 🇹🇹 
+Name : Seychelles Capital : Victoria Flags : 🇸🇨 
+Name : Japan Capital : Tokyo Flags : 🇯🇵 
+Name : Brazil Capital : Brasília Flags : 🇧🇷 
+Name : Syria Capital : Damascus Flags : 🇸🇾 
+Name : Saint Helena, Ascension and Tristan da Cunha Capital : Jamestown Flags : 🇸🇭 
+Name : Tanzania Capital : Dodoma Flags : 🇹🇿 
+Name : Andorra Capital : Andorra la Vella Flags : 🇦🇩 
+Name : Iran Capital : Tehran Flags : 🇮🇷 
+Name : Togo Capital : Lomé Flags : 🇹🇬 
+Name : Malta Capital : Valletta Flags : 🇲🇹 
+Name : South Korea Capital : Seoul Flags : 🇰🇷 
+Name : Samoa Capital : Apia Flags : 🇼🇸 
+Name : Germany Capital : Berlin Flags : 🇩🇪 
+Name : Niger Capital : Niamey Flags : 🇳🇪 
+Name : Bouvet Island Capital : undefined Flags : 🇧🇻 
+Name : Jamaica Capital : Kingston Flags : 🇯🇲 
+Name : Nicaragua Capital : Managua Flags : 🇳🇮 
+Name : Guinea Capital : Conakry Flags : 🇬🇳 
+Name : Anguilla Capital : The Valley Flags : 🇦🇮 
+Name : Åland Islands Capital : Mariehamn Flags : 🇦🇽 
+Name : Belgium Capital : Brussels Flags : 🇧🇪 
+Name : Portugal Capital : Lisbon Flags : 🇵🇹 
+Name : Denmark Capital : Copenhagen Flags : 🇩🇰 
+Name : Philippines Capital : Manila Flags : 🇵🇭 
+Name : Wallis and Futuna Capital : Mata-Utu Flags : 🇼🇫 
+Name : Austria Capital : Vienna Flags : 🇦🇹 
+Name : Guinea-Bissau Capital : Bissau Flags : 🇬🇼 
+Name : Monaco Capital : Monaco Flags : 🇲🇨 
+Name : Namibia Capital : Windhoek Flags : 🇳🇦 
+Name : United States Minor Outlying Islands Capital : Washington DC Flags : 🇺🇲 
+Name : Costa Rica Capital : San José Flags : 🇨🇷 
+Name : Bosnia and Herzegovina Capital : Sarajevo Flags : 🇧🇦 
+Name : Macau Capital : undefined Flags : 🇲🇴 
+Name : Mozambique Capital : Maputo Flags : 🇲🇿 
+Name : Réunion Capital : Saint-Denis Flags : 🇷🇪 
+Name : Montenegro Capital : Podgorica Flags : 🇲🇪 
+Name : North Korea Capital : Pyongyang Flags : 🇰🇵 
+Name : Northern Mariana Islands Capital : Saipan Flags : 🇲🇵 
+Name : Ukraine Capital : Kyiv Flags : 🇺🇦 
+Name : Iraq Capital : Baghdad Flags : 🇮🇶 
+Name : South Georgia Capital : King Edward Point Flags : 🇬🇸 
+Name : Angola Capital : Luanda Flags : 🇦🇴 
+Name : Sierra Leone Capital : Freetown Flags : 🇸🇱 
+Name : Micronesia Capital : Palikir Flags : 🇫🇲 
+Name : Cuba Capital : Havana Flags : 🇨🇺 
+Name : Turks and Caicos Islands Capital : Cockburn Town Flags : 🇹🇨 
+Name : Serbia Capital : Belgrade Flags : 🇷🇸 
+Name : Ecuador Capital : Quito Flags : 🇪🇨 
+Name : Faroe Islands Capital : Tórshavn Flags : 🇫🇴 
+Name : Antarctica Capital : undefined Flags : 🇦🇶 
+Name : Palestine Capital : Ramallah,Jerusalem Flags : 🇵🇸 
+Name : Turkey Capital : Ankara Flags : 🇹🇷 
+Name : Kiribati Capital : South Tarawa Flags : 🇰🇮 
+Name : Kazakhstan Capital : Nur-Sultan Flags : 🇰🇿 
+Name : Gibraltar Capital : Gibraltar Flags : 🇬🇮 
+Name : Iceland Capital : Reykjavik Flags : 🇮🇸 
+Name : Palau Capital : Ngerulmud Flags : 🇵🇼 
+Name : Qatar Capital : Doha Flags : 🇶🇦 
+Name : Switzerland Capital : Bern Flags : 🇨🇭 
+Name : French Polynesia Capital : Papeetē Flags : 🇵🇫 
+Name : Pitcairn Islands Capital : Adamstown Flags : 🇵🇳 
+Name : Jordan Capital : Amman Flags : 🇯🇴 
+Name : Myanmar Capital : Naypyidaw Flags : 🇲🇲 
+Name : Thailand Capital : Bangkok Flags : 🇹🇭 
+Name : Caribbean Netherlands Capital : Kralendijk Flags : 🇧🇶 
+Name : Aruba Capital : Oranjestad Flags : 🇦🇼 
+Name : Guadeloupe Capital : Basse-Terre Flags : 🇬🇵 
+Name : Nigeria Capital : Abuja Flags : 🇳🇬 
+Name : Bahrain Capital : Manama Flags : 🇧🇭 
+Name : Laos Capital : Vientiane Flags : 🇱🇦 
+Name : Cocos (Keeling) Islands Capital : West Island Flags : 🇨🇨 
+Name : Djibouti Capital : Djibouti Flags : 🇩🇯 
+Name : Solomon Islands Capital : Honiara Flags : 🇸🇧 
+Name : Heard Island and McDonald Islands Capital : undefined Flags : 🇭🇲 
+Name : India Capital : New Delhi Flags : 🇮🇳 
+Name : San Marino Capital : City of San Marino Flags : 🇸🇲 
+Name : Luxembourg Capital : Luxembourg Flags : 🇱🇺 
+Name : Sint Maarten Capital : Philipsburg Flags : 🇸🇽 
+Name : Falkland Islands Capital : Stanley Flags : 🇫🇰 
+Name : Central African Republic Capital : Bangui Flags : 🇨🇫 
+Name : Botswana Capital : Gaborone Flags : 🇧🇼 
+Name : Curaçao Capital : Willemstad Flags : 🇨🇼 
+Name : Guernsey Capital : St. Peter Port Flags : 🇬🇬 
+Name : Norway Capital : Oslo Flags : 🇳🇴 
+Name : Gabon Capital : Libreville Flags : 🇬🇦 
+Name : Zimbabwe Capital : Harare Flags : 🇿🇼 
+Name : Lesotho Capital : Maseru Flags : 🇱🇸 
+Name : Slovenia Capital : Ljubljana Flags : 🇸🇮 
+Name : Argentina Capital : Buenos Aires Flags : 🇦🇷 
+Name : Burkina Faso Capital : Ouagadougou Flags : 🇧🇫 
+Name : Yemen Capital : Sana'a Flags : 🇾🇪 
+Name : DR Congo Capital : Kinshasa Flags : 🇨🇩 
+Name : Oman Capital : Muscat Flags : 🇴🇲 
+Name : Indonesia Capital : Jakarta Flags : 🇮🇩 
+Name : Nauru Capital : Yaren Flags : 🇳🇷 
+Name : Rwanda Capital : Kigali Flags : 🇷🇼 
+Name : North Macedonia Capital : Skopje Flags : 🇲🇰 
+Name : Kosovo Capital : Pristina Flags : 🇽🇰 
+Name : Netherlands Capital : Amsterdam Flags : 🇳🇱 
+Name : Tunisia Capital : Tunis Flags : 🇹🇳 
+Name : South Sudan Capital : Juba Flags : 🇸🇸 
+Name : Honduras Capital : Tegucigalpa Flags : 🇭🇳 
+Name : Saint Vincent and the Grenadines Capital : Kingstown Flags : 🇻🇨 
+Name : Sri Lanka Capital : Sri Jayawardenepura Kotte Flags : 🇱🇰 
+Name : Hong Kong Capital : City of Victoria Flags : 🇭🇰 
+Timor-Leste
+American Samoa
+El Salvador
+Guam
+Puerto Rico
+Panama
+British Virgin Islands
+British Indian Ocean Territory
+United States
+Cambodia
+Bahamas
+United States Virgin Islands
+Marshall Islands
+United States Minor Outlying Islands
+Northern Mariana Islands
+Micronesia
+Turks and Caicos Islands
+Ecuador
+Palau
+Caribbean Netherlands
+
+[Done] exited with code=0 in 23.422 seconds
+
