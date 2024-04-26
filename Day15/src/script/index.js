@@ -169,7 +169,7 @@ document.addEventListener("keydown", function (event) {
       inputText.value += "1";
       break;
     case "2":
-      inputText.value += "1";
+      inputText.value += "2";
       break;
     case "3":
       inputText.value += "3";
@@ -213,57 +213,19 @@ document.addEventListener("keydown", function (event) {
     case ".":
       inputText.value += ".";
       break;
-    case "Enter":
-      inputText.value += "Enter";
-      break;
     case "Backspace":
-      inputText.value += "Backspace";
+        inputText.value = inputText.value.toString().slice(0, -1);
       break;
     case "=":
-      inputText.value += "=";
-      break;
-
-    default:
-      // Handle other keys (if needed)
-      break;
-  }
-});
-
-let one = "1";
-inputOne.addEventListener("click", function (one) {
-  document.getElementsByClassName("display").one += one;
-});
-
-function handleToclearElements() {
-  document.getElementById("display").value = "";
-}
-let addToDispaly = function handleToAdd(value) {
-  inputText.value += value;
-};
-function handleTobackspace() {
-  document.getElementById("display").value = document
-    .getElementById("display")
-    .value.toString()
-    .slice(0, -1);
-}
-
-function handleToCalculate() {
-  const expression = document.getElementById("display").value;
-  const result = eval(expression);
-  document.getElementById("display").value = result;
-}
-
-let display = document.getElementById("display");
-
-inputText.addEventListener("keydown", function (event) {
-  let key = event.key;
-  if (!isNaN(parseInt(key))) {
-    handleToAdd(key);
-  } else if (key === "Enter") {
-    handleToCalculate();
-  } else if (key === "Backspace") {
-    handleTobackspace();
-  } else {
-    alert("Only numbers are allowed");
+        if (inputText.value) {
+            inputText.value = eval(inputText.value);
+          } else {
+            inputText.value = "ERROR";
+          }
+      break; 
+      default:
+        alert('Only numbers are allowed!');
+        break;
+         
   }
 });
