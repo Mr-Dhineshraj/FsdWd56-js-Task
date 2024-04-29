@@ -1,1 +1,88 @@
-\
+ form{
+    width: 90%;
+    max-width: 600px; 
+    background-color: #2ec1bc;
+    padding: 20px;
+    
+} 
+
+.font{
+    font-weight: bold;
+}
+
+.input-group{  
+    padding: 10px;
+    box-shadow:-8px -8px 15px rgba(255,255, 255,0.1), 5px 5px 15px rgba(0,0,0,0.2) ;
+    outline: none;
+}
+ul li{
+    list-style-type: none;
+}
+
+.input-btn{
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 150px;
+    border-radius: 15px;
+    border: none;
+    background-color:aqua ;
+    box-shadow:-8px -8px 15px rgba(255,255, 255,0.1), 5px 5px 15px rgba(0,0,0,0.2) ;
+    background: transparent;
+    color: black;
+
+
+
+
+/* 
+<!-- <div class="container-fluid d-flex justify-content-center py-10">
+        <form>
+
+            <div><Strong>Name:</Strong></div>
+            
+            <div class="input-group">
+                
+                <input type="text" class="form-control" placeholder="First Name">
+                
+                <input type="text" aria-label="Last name" class="form-control" placeholder="Last Name">
+              </div>
+
+              <div><Strong>Address:</Strong></div>
+              <div class="input-group">
+                
+                <input type="text" class="form-control" placeholder="Enter Your Address" required>
+            </div>
+                
+            <div><Strong>Pincode:</Strong></div>
+              <div class="input-group">
+                
+                <input type="text" class="form-control" placeholder="Pincode" required>
+            </div>
+            <div>
+                       <div><Strong>Food:</Strong></div>
+                    
+                        <ul>
+                        <li><input type="checkbox"> Lemon rice</li>
+                        <li><input type="checkbox"> Tomatto rice</li>
+                        <li><input type="checkbox"> Curd rice</li>
+                        <li><input type="checkbox"> Vegettable rice</li>
+                        <li><input type="checkbox"> Curry rice</li>
+                    </ul>
+                    
+            </div>
+            <div><Strong>State:</Strong></div>
+              <div class="input-group" >
+                
+                <input type="text" class="form-control" placeholder="State" required>
+            </div>
+            <div><Strong>Country:</Strong></div>
+              <div class="input-group">
+                
+                <input type="text" class="form-control" placeholder="Country" required>
+            </div>
+        
+
+        </form>
+        
+
+    </div> --> */
