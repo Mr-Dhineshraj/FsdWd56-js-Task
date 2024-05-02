@@ -1,28 +1,28 @@
-(function(){
+let countIt=function(){
 
-    let coundown=document.getElementById("timer")
+    let countdown=document.getElementById("timer")
     setTimeout(function(){
-        coundown.innerText="10";
+        countdown.innerText="10";
         setTimeout(function(){
-            coundown.innerText="9";
+            countdown.innerText="9";
             setTimeout(function(){
-                coundown.innerText="8";
+                countdown.innerText="8";
                 setTimeout(function(){
-                    coundown.innerText="7";
+                    countdown.innerText="7";
                     setTimeout(function(){
-                        coundown.innerText="6";
+                        countdown.innerText="6";
                         setTimeout(function(){
-                            coundown.innerText="5";
+                            countdown.innerText="5";
                             setTimeout(function(){
-                                coundown.innerText="4";
+                                countdown.innerText="4";
                                 setTimeout(function(){
-                                    coundown.innerText="3";
+                                    countdown.innerText="3";
                                     setTimeout(function(){
-                                        coundown.innerText="2";
+                                        countdown.innerText="2";
                                         setTimeout(function(){
-                                            coundown.innerText="1";
+                                            countdown.innerText="1";
                                             setTimeout(function(){
-                                                coundown.textContent=("Happy Independence day")
+                                                countdown.textContent=("Happy Independence day")
                                             },1000);
                                         },1000);
                                     },1000);
@@ -34,5 +34,6 @@
             },1000);
         },1000);  
     },1000);
-})();
+};
+countIt();
 
