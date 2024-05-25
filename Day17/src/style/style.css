@@ -1,9 +1,7 @@
 .card{
     width: 18rem;
     background: #CDBE9B;
-    display: flex;
-    justify-content: space-between;
-   
+
 }
 .card-header{
     background-color: black; 
@@ -11,6 +9,7 @@
     text-align: center;
 }
 
-body{
+.container{
     background-color:#23404B ;
+    margin: auto;
 }
